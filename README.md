@@ -10,4 +10,4 @@ Le jeu est entièrement Jouable au clavier ou à la souris.
 
 Ce projet à été fait en 1ière au Lycée Marlioz, par groupe de 3 ou 4. Nous avions 1mois pour le réaliser avec 6h de cours.
 
-La version graphique n'était pas imposé, nous avons essayé par nous même de l'adapter en version graphique, Vous avez le détail du sujet en pdf.
+La version graphique n'était pas imposé, nous avons essayé par nous même de l'adapter en version graphique, Le détail du sujet est disponible en pdf.
