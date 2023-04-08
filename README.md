@@ -6,6 +6,7 @@ Vous aurez aussi besoin de télécharger tous les fichiers pythons et de les enr
 
 Pour lancer la version graphique du jeu il suffit d'executer la fonction jouer() du fichier demineur_graphique
 Attention vous aurez besoin de télécharger la version console pour faire fonctionner la version graphique.
+Il est aussi important de ne pas deplacer les fichiers, pour que la version graphique fonctionne il faut que le dossier image soit dans le même dossier que le fichier demineur_graphique.py
 
 Pour lancer La version console du jeu il suffit d'executer la fonciton partie() du fichier demineur_console
 
