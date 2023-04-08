@@ -9,7 +9,6 @@ Attention vous aurez besoin de télécharger la version console pour faire fonct
 
 Pour lancer La version console du jeu il suffit d'executer la fonciton partie() du fichier demineur_console
 
-
 Ce projet à été fait en 1ière au Lycée Marlioz, par groupe de 3 ou 4. Nous avions 1mois pour le réaliser avec 6h de cours.
 
-La version graphique n'était pas imposé, nous avons essayé par nous même de l'adapter en version graphique, Le détail du sujet est disponible en pdf.
+La version graphique n'était pas imposé, nous avons essayé par nous même de l'adapter en version graphique, je n'ai malheureusement plus le sujet pdf.
