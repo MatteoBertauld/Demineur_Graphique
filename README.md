@@ -1,4 +1,4 @@
-Démineur avec et sans interface graphique programmer en python à l'aide de pygame.
+Démineur avec et sans interface graphique programmé en python à l'aide de pygame.
 
 Pour lancer les jeux il vous faut un interpréteur Python, au lycée nous utilisons Pyzo.
 
